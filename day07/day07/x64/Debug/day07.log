@@ -1,0 +1,4 @@
+﻿  04_条件编译.c
+D:\Code\CHeiMa\CHeiMa\day07\day07\04_条件编译.c(1,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+D:\Code\CHeiMa\CHeiMa\day07\day07\04_条件编译.c : message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  day07.vcxproj -> D:\Code\CHeiMa\CHeiMa\day07\x64\Debug\day07.exe

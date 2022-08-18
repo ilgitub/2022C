@@ -1,0 +1,3 @@
+﻿  指针引用.cpp
+D:\Code\CHeiMa\CHeiMa\ProjectCPlus1\10 指针引用\指针引用.cpp(113,9): error C2440: “=”: 无法从“const int *”转换为“int *”
+D:\Code\CHeiMa\CHeiMa\ProjectCPlus1\10 指针引用\指针引用.cpp(113,6): message : 转换丢失限定符

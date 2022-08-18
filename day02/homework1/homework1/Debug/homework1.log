@@ -1,0 +1,8 @@
+﻿  main.c
+D:\Code\CHeiMa\CHeiMa\day02\homework1\homework1\main.c(6,20): warning C4013: “malloc”未定义；假设外部返回 int
+D:\Code\CHeiMa\CHeiMa\day02\homework1\homework1\main.c(20,8): warning C4013: “strcpy”未定义；假设外部返回 int
+D:\Code\CHeiMa\CHeiMa\day02\homework1\homework1\main.c(28,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
+D:\Code\CHeiMa\CHeiMa\day02\homework1\homework1\main.c(30,7): warning C4013: “free”未定义；假设外部返回 int
+D:\Code\CHeiMa\CHeiMa\day02\homework1\homework1\main.c(32,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
+D:\Code\CHeiMa\CHeiMa\day02\homework1\homework1\main.c(12,7): warning C4101: “buf”: 未引用的局部变量
+  homework1.vcxproj -> D:\Code\CHeiMa\CHeiMa\day02\Project1\Debug\homework1.exe

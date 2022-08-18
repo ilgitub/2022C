@@ -1,0 +1,4 @@
+﻿  04_数组指针.c
+D:\Code\CHeiMa\CHeiMa\day04\Project4\Project4\04_数组指针.c(1,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+D:\Code\CHeiMa\CHeiMa\day04\Project4\Project4\04_数组指针.c : message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  Project4.vcxproj -> D:\Code\CHeiMa\CHeiMa\day04\Project4\Debug\Project4.exe

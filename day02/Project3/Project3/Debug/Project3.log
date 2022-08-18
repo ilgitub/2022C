@@ -1,0 +1,5 @@
+﻿  02_const_val.c
+  02_const的使用.c
+D:\Code\CHeiMa\CHeiMa\day02\Project3\Project3\02_const的使用.c(64,1): warning C4090: “初始化”: 不同的“const”限定符
+  正在生成代码...
+  Project3.vcxproj -> D:\Code\CHeiMa\CHeiMa\day02\Project3\Debug\Project3.exe
