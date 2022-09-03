@@ -4,7 +4,10 @@ void Circle::setR(double r)
 {
 	m_r = r;
 }
-
+/// <summary>
+/// 
+/// </summary>
+/// <returns></returns>
 double Circle::getR()
 {
 	return m_r;

@@ -1,0 +1,7 @@
+#屏蔽VS目录文件
+.vs
+#屏蔽VS工程文件
+*.filters
+*.user
+
+/Project3/Project3/x64
